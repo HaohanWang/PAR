@@ -6,10 +6,10 @@
 
 - [example/AlexNet.py](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py)
     - Example usuage of how to plug in our idea into existing AlexNet
-    - One only need to concern with the codes controlled by the boolean varialable adv_flag, including
-            - [Line 182](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py#L182)
-            - [Line 291](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py#L291)
-            - [Line 317](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py#L317)
+    - One only need to concern with the codes controlled by the boolean varialable adv_flag, including:
+            -- [Line 182](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py#L182)
+            -- [Line 291](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py#L291)
+            -- [Line 317](https://github.com/HaohanWang/PAR/blob/master/example/alexNet.py#L317)
 - utility/ 
     - Other codes needed to run the AlexNet, not part of the contributions of this repository
     
