@@ -13,6 +13,10 @@
 - utility/ 
     - Other codes needed to run the AlexNet, not part of the contributions of this repository
     
+### Data
+
+- For the ImageNet-Sketch Data, please visit: [HaohanWang/ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch)
+    
 ### Reference
 
 If you find this method helpful, please consider cite: 
