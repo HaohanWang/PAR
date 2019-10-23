@@ -18,3 +18,8 @@
 If you find this method helpful, please consider cite: 
     
 &emsp; _Haohan Wang, Songwei Ge, Eric P. Xing, and Zachary C. Lipton. "[Learning Robust Global Representations by Penalizing Local Predictive Power](https://arxiv.org/abs/1905.13549)" (NeurIPS 2019)_
+
+### Other Resources
+
+- You may be also interested in [HaohanWang/HEX](https://github.com/HaohanWang/HEX)
+
