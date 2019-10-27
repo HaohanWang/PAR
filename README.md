@@ -13,6 +13,10 @@
 - utility/ 
     - Other codes needed to run the AlexNet, not part of the contributions of this repository
     
+### Replication
+
+- This repository is made for a clear demonstration of our method. For replication of the numbers in our paper, please visit: [HaohanWang/PAR_experiments](https://github.com/HaohanWang/PAR_experiments)
+    
 ### Data
 
 - For the ImageNet-Sketch Data, please visit: [HaohanWang/ImageNet-Sketch](https://github.com/HaohanWang/ImageNet-Sketch)
